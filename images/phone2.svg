@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="677" height="443" viewBox="0 0 677 443">
+    <defs>
+        <filter id="a" width="253.6%" height="176.1%" x="-25.7%" y="-11.5%" filterUnits="objectBoundingBox">
+            <feOffset dx="-10" dy="22" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="17"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.375774484 0 0 0 0 0.615804222 0 0 0 0 0.740619685 0 0 0 1 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <path id="c" d="M51.001 0h177.134C257.317 0 280 11.646 280 50.988v456.148c0 21.007-1.011 57.488-49.267 57.488H43.92C22.877 564.624 0 551.938 0 515.947V50.988C0 8.998 26.238 0 51.001 0z"/>
+        <filter id="b" width="318.6%" height="208.4%" x="-54.6%" y="-31.5%" filterUnits="objectBoundingBox">
+            <feOffset dx="153" dy="128" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="76.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0166930749 0 0 0 0 0.230583093 0 0 0 0 0.333519345 0 0 0 0.05 0"/>
+        </filter>
+        <path id="d" d="M176.645 19.985c10.26.144 14.766-8.957 14.886-15.31 0-3.371.971-4.479 4.769-4.479h21.97c12.57 0 27.023 5.778 27.023 28.022v474.348c0 17.911-9.538 28.022-30.783 28.022H28.506C6.83 530.588.038 517.444.038 503V26.63C.038 8.43 13.045.051 25.185.051h24.424c3.469 0 4.191 2.022 4.191 4.333 0 2.311 1.247 15.359 15.609 15.456 12.14 0 93.506.144 107.236.144z"/>
+        <filter id="e" width="102.4%" height="101.1%" x="-1.2%" y="-.6%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0"/>
+        </filter>
+        <path id="g" d="M0 0h247v94H0z"/>
+        <rect id="h" width="226" height="22" rx="11"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#a)" transform="rotate(-13 -717.153 -143.945)">
+        <use fill="#000" filter="url(#b)" xlink:href="#c"/>
+        <use fill="#FFF" xlink:href="#c"/>
+        <g transform="translate(16.577 20.892)">
+            <mask id="f" fill="#fff">
+                <use xlink:href="#d"/>
+            </mask>
+            <use fill="#000" filter="url(#e)" xlink:href="#d"/>
+            <use fill="#F7F8FA" xlink:href="#d"/>
+            <g mask="url(#f)">
+                <g transform="rotate(-1 4417.817 942.652)">
+                    <path fill="#F6F6F6" d="M0 402h266.205v63H0z"/>
+                    <g transform="translate(177.985 235.073)">
+                        <rect width="71.933" height="23.019" fill="#0A84FE" rx="11.509"/>
+                        <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="12">
+                            <tspan x="16.989" y="15.754">Thanks!</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(107.238 329.43)">
+                        <rect width="140.989" height="23.019" fill="#0A84FE" rx="11.509"/>
+                        <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="12">
+                            <tspan x="11.047" y="15.265">Really like your service! </tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(69.515 138.15)">
+                        <rect width="62.301" height="22.019" x=".5" y=".5" stroke="#0A84FE" rx="11.009"/>
+                        <text fill="#0A84FE" font-family="Roboto-Regular, Roboto" font-size="12">
+                            <tspan x="18.223" y="15.509">Sure!</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(137.612 138.15)">
+                        <rect width="82.443" height="22.019" x=".5" y=".5" stroke="#0A84FE" rx="11.009"/>
+                        <text fill="#0A84FE" font-family="Roboto-Regular, Roboto" font-size="12">
+                            <tspan x="14.387" y="15.509">No, thanks</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(48.988 77.721)">
+                        <rect width="160.171" height="41.242" fill="#F1F1F1" rx="20.621"/>
+                        <text fill="#737B8B" font-family="Roboto-Regular, Roboto" font-size="12">
+                            <tspan x="13.428" y="16.121">Do you want to have our</tspan> <tspan x="13.428" y="31.121">sale coupon?</tspan>
+                        </text>
+                    </g>
+                    <g transform="translate(24.051 180.346)">
+                        <g transform="translate(24.937)">
+                            <rect width="146.744" height="41.242" fill="#F1F1F1" rx="20.621"/>
+                            <text fill="#737B8B" font-family="Roboto-Regular, Roboto" font-size="12">
+                                <tspan x="13.428" y="16.755">Here you go! Your </tspan> <tspan x="13.428" y="30.755">coupon 121-12321-56</tspan>
+                            </text>
+                        </g>
+                        <circle cx="11.03" cy="11.03" r="11.03" fill="#5BC3F9"/>
+                    </g>
+                    <g transform="translate(21.632 273.491)">
+                        <g transform="translate(24.937)">
+                            <rect width="155" height="41.242" fill="#F1F1F1" rx="20.621"/>
+                            <text fill="#737B8B" font-family="Roboto-Regular, Roboto" font-size="12">
+                                <tspan x="12.468" y="18.673">Please give us feedback </tspan> <tspan x="12.468" y="32.673">about our store</tspan>
+                            </text>
+                        </g>
+                        <circle cx="11.03" cy="11.03" r="11.03" fill="#5BC3F9"/>
+                    </g>
+                    <rect width="129.149" height="19.182" x="107.771" y="418.174" fill="#EBEBEB" rx="9.591"/>
+                    <circle cx="28.572" cy="426.3" r="9.591" fill="#EBEBEB"/>
+                    <circle cx="57.346" cy="426.3" r="9.591" fill="#EBEBEB"/>
+                    <circle cx="86.119" cy="426.3" r="9.591" fill="#EBEBEB"/>
+                </g>
+            </g>
+            <path fill="#4A4A4A" d="M-7 56h259v364H-7z" mask="url(#f)" opacity=".414" transform="rotate(-1 122.5 238)"/>
+            <g mask="url(#f)">
+                <g transform="rotate(-1 24149.59 208.595)">
+                    <use fill="#FFF" xlink:href="#g"/>
+                    <path stroke="#D4D4D4" d="M.5.5h246v93H.5z"/>
+                </g>
+                <g transform="rotate(-1 24488.356 -367.348)">
+                    <g transform="translate(0 6.5)">
+                        <use fill="#F9F9F9" xlink:href="#h"/>
+                        <rect width="225" height="21" x=".5" y=".5" stroke="#D4D4D4" rx="10.5"/>
+                    </g>
+                    <text fill="#A9AFBA" font-family="Roboto-Regular, Roboto" font-size="10" letter-spacing="-.019" transform="translate(0 6.5)">
+                        <tspan x="9.417" y="15.107">Send a message…</tspan>
+                    </text>
+                    <rect width="26.367" height="1.857" x="99.817" fill="#D8D8D8" rx=".929"/>
+                </g>
+                <text font-family="Roboto-Regular, Roboto" font-size="12" transform="rotate(-1 24149.59 208.595)">
+                    <tspan x="8.032" y="56.881" fill="#000">Your title</tspan>
+                </text>
+                <text font-family="Roboto-Regular, Roboto" font-size="12" transform="rotate(-1 24149.59 208.595)">
+                    <tspan x="9.242" y="83.03" fill="#000">Powered by Quantify Ninja</tspan>
+                </text>
+                <path fill="#D4D4D4" fill-rule="nonzero" d="M10.144 484.833l-.008-.5 235.964-4.118.009.5z"/>
+            </g>
+        </g>
+        <path fill="#F0F3F5" d="M97.379 542.236h84.953a2.311 2.311 0 1 1 0 4.622H97.38a2.311 2.311 0 1 1 0-4.622z"/>
+    </g>
+</svg>
